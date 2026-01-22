@@ -1,0 +1,3 @@
+Nombre: Hector Fernando Correa Cruzaley
+No. Contro: 220120324
+Lenguaje de programación: C++/Python
