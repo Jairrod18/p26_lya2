@@ -1,4 +1,3 @@
-
 #ifndef RESTA_H
 #define RESTA_H
 

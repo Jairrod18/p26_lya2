@@ -1,4 +1,3 @@
-
 #include "resta_diosarrolladores.h"
 
 float suma(float num1, float num2) {
