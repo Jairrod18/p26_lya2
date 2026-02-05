@@ -5,19 +5,19 @@
 
 #include <iostream>
 
-//#include "suma_NOMBRE_EQUIPO.h"
+#include "suma_Los_Chamos.h"
 #include "resta_Los_Chamos.h"
-//#include "multipliacion_NOMBRE_EQUIPO.h"
-//#include "division_NOMBRE_EQUIPO.h"
+#include "multipliacion_Los_Chamos.h"
+#include "division_Los_Chamos.h"
 
 using namespace std;
 
 int main (int argc, char *argv[])
 {
-  //cout << "3 + 5 = "<< suma(3,5) << endl;
+  cout << "3 + 5 = "<< suma(3,5) << endl;
   cout << "3 - 5 = "<< resta(3,5) << endl;
-  //cout << "3 * 5 = "<< multipliacion(3,5) << endl;
-  //cout << "3 / 5 = "<< division(3,5) << endl;
+  cout << "3 * 5 = "<< multipliacion(3,5) << endl;
+  cout << "3 / 5 = "<< division(3,5) << endl;
 
   return 0;
 }
