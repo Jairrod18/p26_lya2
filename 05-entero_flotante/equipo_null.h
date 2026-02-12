@@ -1,6 +1,4 @@
-/*
- * SPDX-License-Identifier: GPL-3.0-or-later
- */
+
 
 #ifndef _ESTADOS_H_
 #define _ESTADOS_H_

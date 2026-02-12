@@ -1,7 +1,4 @@
-/*SOLIS MORALES CARLOS ALBERTO
-FLORES RODRIGUEZ JAIR JECSAN
-CASTRO MELGOZA KATIA ELIZABETH
-*/
+
 #include <iostream>
 #include <string>
 #include "equipo.h"
