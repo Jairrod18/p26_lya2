@@ -1,0 +1,29 @@
+digraph G {
+    rankdir=TB;
+    node [shape = circle, fontname="Arial", fixedsize=true, width=0.6];
+
+    node [shape = doublecircle]; q3 q5 q8;
+    
+    node [shape = circle];
+
+    node [shape = point]; inicio;
+    
+    
+    q1 -> q2 [label="+/-"];
+    
+    q2 -> q3 [label="0-9"];
+    
+    q3 -> q3 [label="0-9"];
+    
+    q3 -> q4 [label="."];
+    q4 -> q5 [label="0-9"];
+    
+    q5 -> q5 [label="0-9"];
+    q5 -> q6 [label="+/-"];
+    q6 -> q7 [label="e"];
+    
+    q7 -> q8 [label="1-9"];
+    q8 -> q8 [label="0-9"];
+    q8 -> "salida" [label="11-0", shape=none];
+
+}
