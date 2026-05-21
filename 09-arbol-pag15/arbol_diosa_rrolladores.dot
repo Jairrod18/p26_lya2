@@ -1,4 +1,3 @@
-
 Digraph ArbolCompleto {
     node [shape=plaintext, fontname="Helvetica", fontsize=10];
     edge [arrowsize=0.5];
